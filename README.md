@@ -1,11 +1,10 @@
-# Big-Data-for-SupplyChain
 
 # **Big Data Analysis- Proyecto Big-Data**
 
-OBJETIVO GENERAL
+**OBJETIVO GENERAL**:
 Integrar el análisis de datos de la cadena de suministro (supply chain) con técnicas de machine learning para desarrollar un modelo de clasificación que prediga el riesgo de entrega tardía. Este modelo considerará diversos factores operacionales, logísticos y de producto (distancia, peso, transportista, ciudad destino, tipo de producto, tiempo de procesamiento) para identificar anticipadamente qué envíos presentan mayor probabilidad de retraso, permitiendo tomar decisiones proactivas que reduzcan las incidencias y mejoren la satisfacción del cliente.
 
-OBJETIVO DE NEGOCIO
+**OBJETIVO DE NEGOCIO**
 Reducir significativamente el número de entregas tardías mediante predicción temprana del riesgo, lo cual permitirá:
 
 Disminuir quejas y reclamos
@@ -15,7 +14,7 @@ Optimizar recursos logísticos
 Tomar decisiones informadas sobre rutas, transportistas y priorización
 
 
-OBJETIVOS ESPECÍFICOS DEL NOTEBOOK
+**OBJETIVOS ESPECÍFICOS DEL NOTEBOOK**
 1. Análisis Exploratorio Enfocado en Supply Chain
 Desarrollar un análisis exploratorio de datos (EDA) utilizando Pandas-Profiling y otras librerías de Python, con enfoque específico en variables de la cadena de suministro:
 
@@ -66,7 +65,7 @@ Interpretabilidad: Identificar qué variables tienen mayor peso en la predicció
 Selección final: Elegir el modelo con mejor balance entre precisión y aplicabilidad operativa
 
 
-ENTREGABLE FINAL
+**ENTREGABLE FINAL**
 Un modelo predictivo operacional que:
 
 Identifique en tiempo real qué envíos tienen alto riesgo de llegar tarde
